@@ -1,0 +1,137 @@
+Python Course Worth 20000
+===========================
+Module 01 - Python Environment Setup and Essentials
+1.1 Introduction to Python Language
+1.2 Features and the advantages of python over other programming languages
+1.3 Python installation - Windows, Mac and Linux distribution for Anaconda Python
+1.4 Deploying Python IDE
+1.5 Basic Python commands, data types, variables, keywords and more
+
+Hands-on Exercise - 1 Hour 
+
+Module 02 - Python language Basic Constructs
+----------
+2.1 Built-in data types in Python
+2.2 Learn classes, modules, Str(String), Ellipsis Object, Numm Object, Ellipsis Debug
+2.3 Basic operators, comparison, airthmetic, slicing and slice operator, logical, bitwise
+2.4 Loop and control statements while, for, if, break, else, continue.
+
+Hands-on Exercise-
+1. Write your first Python Program
+2. Write a Python Function (with and without parameters)
+3. Use Lambda expression
+4. Write a class
+5. Create a member function and a vairable
+6. Create an object
+7. Write a for loop
+
+Module 03 - OOP concepts in Python
+---------
+3.1 How to write OOP concepts program in Python
+3.2 Connecting to a database
+3.3 Classes and objects in Python
+3.4 OOPs paradigm, important concepts in OOP like polymorphism, inheritance, encapsulation
+3.5 Python functions, return types and parameters
+3.6 Lambda expressions
+
+Hands-on Exercise –
+1. Creating an application that helps to check balances, deposit money, and withdraw money using the concepts of OOPs
+
+Module 04 - Database Connection
+---------
+4.1 Understanding the database, need for database
+4.2 Installing MySQL on Windows
+4.3 Understanding database connections using Python
+
+Hands-on Exercise – Demo on database connection using Python and pulling the data.
+
+Module 05 - NumPy for Mathematical Computing
+---------
+5.1 Introduction to arrays and matrices
+5.2 Broadcasting of array math, indexing of array
+5.3 Standard deviation, conditional probability, correlation and covariance.
+
+Hands-on Exercise –
+1. How to import the NumPy module?
+2. Creating an array using ND-array
+3. Calculating standard deviation on an array of numbers
+4. Calculating the correlation between two variables
+
+Module 06 - SciPy for Scientific Computing
+---------
+6.1 Introduction to SciPy
+6.2 Functions building on top of NumPy, cluster, linalg, signal, optimize, integrate, subpackages, and SciPy with Bayes’ Theorem
+
+Hands-on Exercise –
+1. Importing of SciPy
+2. Applying Bayes’ theorem to the given dataset
+
+Module 07 - Matplotlib for Data Visualization
+---------
+7.1 How to plot graphs and charts with Python?
+7.2 Various aspects of line, scatter, bar, histogram, 3D, the API of Matplotlib, and subplots
+
+Hands-on Exercise –
+1. Deploying Matplotlib for creating Pie, Scatter, Line, and Histogram
+
+Module 08 - Pandas for Data Analysis and Machine Learning
+-----------
+8.1 Introduction to Python dataframes
+8.2 Importing data from JSON, CSV, Excel, SQL database, NumPy array to dataframe
+8.3 Various data operations like selecting, filtering, sorting, viewing, joining, combining
+
+Hands-on Exercise –
+1. Working on importing data from JSON files
+2. Selecting record by a group
+3. Applying filter on top, viewing records
+
+Module 09 - Exception Handling
+----------
+9.1 Introduction to Exception Handling
+9.2 Scenarios in Exception Handling with its execution
+9.3 Arithmetic exception
+9.4 RAISE of Exception
+9.5 What is Random List, running a Random list on Jupyter Notebook
+9.6 Value Error in Exception Handling.
+
+Hands-on Exercise –
+1. Demo on Exception Handling with an Industry-Based Use Case
+
+Module 10 - Multi-Threading and Race Condition
+---------
+10.1 Introduction to Thread, the need of threads
+10.2 What are thread functions?
+10.3 Performing various operations on thread like joining a thread, starting a thread, and enumeration in a thread
+10.4 Creating a Multithread, finishing the multithreads.
+10.5 Understanding race condition, lock, and synchronization
+
+Hands-on Exercise –
+1. Demo on Starting a Thread and a Multithread and then performing multiple operations on them
+
+Module 11 - Packages and Functions
+----------
+11.1 Introduction to modules in Python, the need for modules
+11.2 How to import modules in Python
+11.3 Locating a module, namespace, and scoping
+11.4 Arithmetic operations on Modules using a function
+11.5 Introduction to the search path, global and local functions, filter functions
+11.6 Python packages, import in packages, various ways of accessing the packages
+11.7 Decorators, pointer assignments, and Xldr
+
+Hands-on Exercise –
+1. Demo on Importing the modules and performing various operations on them using arithmetic functions
+2. Importing various packages, accessing them, and then performing different operations on them
+
+Module 12 - Web Scraping with Python
+---------
+12.1 Introduction to web scraping in Python
+12.2 Installing beautiful soup
+12.3 Installing Python parser lxml
+12.4 Various web scraping libraries, beautiful soup, scrapy Python packages
+12.5 Creating soup object with input HTML
+12.6 Searching of tree, full or partial parsing, output print
+
+Hands-on Exercise –
+1. Installation of beautiful soup and lxml Python parser
+2. Making a soup object with input HTML file
+3. Navigating using Py objects in the soup tree
