@@ -13,3 +13,11 @@ sorted_numbers = sorted(numbers)
 
 # Print the sorted list
 print(sorted_numbers)
+names = ["Carlos", "Ray", "Teja", "Aditya"]
+print(names)
+
+# Sorted by Alphabets
+print(sorted(names))
+
+# Sorted with length Use key=len
+print(sorted(names, key=len))
